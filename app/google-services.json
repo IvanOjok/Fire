@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234233989283",
+    "project_id": "fire-a5397",
+    "storage_bucket": "fire-a5397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234233989283:android:3c5e12c3abe2f8048f9716",
+        "android_client_info": {
+          "package_name": "com.ivanojok.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9T2qKxek0mMnaldurdR3ATNQ37nL0qsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

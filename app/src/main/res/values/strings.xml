@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fire</string>
+
+    <string name="login_text">Input Your credentials to login</string>
+    <string name="input_phone">Enter Phone Number</string>
+    <string name="input_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up_text">Don\'t Have An Account? Sign Up Here.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Enter Email Address</string>
+    <string name="enter_name">Enter User Name</string>
+    <string name="sign_up_text_field">Input required fields to sign up</string>
+</resources>
