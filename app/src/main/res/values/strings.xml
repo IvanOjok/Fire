@@ -10,4 +10,13 @@
     <string name="email">Enter Email Address</string>
     <string name="enter_name">Enter User Name</string>
     <string name="sign_up_text_field">Input required fields to sign up</string>
+
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_size">Product Size</string>
+    <string name="product_brand">Product Brand</string>
+
+    <string name="add_product">Add Product</string>
 </resources>
